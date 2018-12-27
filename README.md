@@ -9,9 +9,9 @@
 Description:
 1. Prompts user with option to calculate monthly payment or total time to pay off loan  
 2. If the user chooses to calculate monthly payment:  
-a. User inputs total amount, percentage of interest, period in years
-b. Prints monthly payment
+a. User inputs total amount, percentage of interest, period in years  
+b. Prints monthly payment  
 3. If the user chooses to calculate period of loan:
-a. User inputs total amount, percentage of interest, desired monthly payment
-b. Prints period of loan
+a. User inputs total amount, percentage of interest, desired monthly payment  
+b. Prints period of loan  
 
